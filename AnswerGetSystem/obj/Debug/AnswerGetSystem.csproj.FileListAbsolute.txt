@@ -1,0 +1,10 @@
+D:\ЛГТУ\Аспирантура\2-Сем\AOS\AnswerGetSystem\AnswerGetSystem\bin\AnswerGetSystem.dll
+D:\ЛГТУ\Аспирантура\2-Сем\AOS\AnswerGetSystem\AnswerGetSystem\bin\AnswerGetSystem.pdb
+D:\ЛГТУ\Аспирантура\2-Сем\AOS\AnswerGetSystem\AnswerGetSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\ЛГТУ\Аспирантура\2-Сем\AOS\AnswerGetSystem\AnswerGetSystem\obj\Debug\AnswerGetSystem.dll
+D:\ЛГТУ\Аспирантура\2-Сем\AOS\AnswerGetSystem\AnswerGetSystem\obj\Debug\AnswerGetSystem.pdb
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\AnswerGetSystem\AnswerGetSystem\bin\AnswerGetSystem.dll
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\AnswerGetSystem\AnswerGetSystem\bin\AnswerGetSystem.pdb
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\AnswerGetSystem\AnswerGetSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\AnswerGetSystem\AnswerGetSystem\obj\Debug\AnswerGetSystem.dll
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\AnswerGetSystem\AnswerGetSystem\obj\Debug\AnswerGetSystem.pdb

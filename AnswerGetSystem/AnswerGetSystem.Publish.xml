@@ -1,0 +1,10 @@
+<publishData>
+  <publishTarget publishUrl="D:\ЛГТУ\Аспирантура\2-Сем\AOS\AnswerGetSystem\Release\">
+    <file relUrl="bin/AnswerGetSystem.dll" publishTime="04/26/2010 18:49:22" />
+    <file relUrl="ChooseQuestion.aspx" publishTime="04/26/2010 18:41:35" />
+    <file relUrl="ThankPage.aspx" publishTime="04/26/2010 18:37:54" />
+    <file relUrl="bin/AnswerGetSystem.pdb" publishTime="04/26/2010 18:49:22" />
+    <file relUrl="Web.config" publishTime="04/26/2010 18:21:22" />
+    <file relUrl="AnswerPage.aspx" publishTime="04/26/2010 18:37:53" />
+  </publishTarget>
+</publishData>
